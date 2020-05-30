@@ -6,7 +6,7 @@ void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     theme: ThemeData(accentColor: Colors.black),
-    title: 'Plugin example app',
+    title: 'Btech Buddy',
     home: HomeScreen(),
   ));
 }
